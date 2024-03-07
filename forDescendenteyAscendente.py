@@ -11,7 +11,7 @@ j = 11
 
 for i in range (1,11):
     j = j -1 
-    sumaa = a * i
-    sumab = b * j
+    productoa = a * i
+    productob = b * j
     print("Multiplos del primer valor : " ,sumaa, "Multiplos del Segundo valor",sumab)
 
